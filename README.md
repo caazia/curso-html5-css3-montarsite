@@ -1,2 +1,2 @@
-# curso-html5-css3-montarsite
+# Curso de HTML5
 Criando um site completo com HTML5/CSS3
